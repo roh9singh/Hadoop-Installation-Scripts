@@ -1,0 +1,86 @@
+Host namenode
+  User ubuntu
+  HostName ec2-52-29-243-237.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode1
+  User ubuntu
+  HostName ec2-52-29-177-214.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode2
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode3
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode4
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode5
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode6
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode7
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode8
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode9
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode10
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode11
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode12
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode13
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode14
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode15
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+Host datanode16
+  User ubuntu
+  HostName ec2-52-29-125-251.eu-central-1.compute.amazonaws.com
+  IdentityFile ~/.ssh/hadoopf.pem
+
+
